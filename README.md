@@ -1,4 +1,4 @@
-
+![](https://github.com/ravishka1010/blood_4_life/blob/main/assets/images/blood_donation.png)
 # Blood4Life 
 
 In a world connected by smartphones, Blood4Life is a mobile app designed to create an efficient and accessible platform for blood donation. It connects donors, recipients, and blood banks.
