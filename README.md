@@ -1,16 +1,18 @@
-# blood4life
 
-A new Flutter project.
+# Blood4Life 
 
-## Getting Started
+In a world connected by smartphones, Blood4Life is a mobile app designed to create an efficient and accessible platform for blood donation. It connects donors, recipients, and blood banks.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Figma UI Design (https://www.figma.com/proto/3UOZJ5LCNrHnnj7BUcG6TB/blood-donation?node-id=0-1&t=B8GVABOL6V72RWcn-1)
+## Collberaters 
+- 10952763 -  Kariyawasam Kariyawasam 
+- 10952454 -  Kasun Ganhewa 
+- 10953672 -  Basnayaka Basnayaka  
+- 10953024 -  Herath Herath  
+- 10953038 -  Ranabahu Ranabahu 
+- 10952754 -  Pattivila Perera  
+- 10952642 -  Jayawardhana Jayawardhana 
+- 10953673 -  Sinethmi Kariyawasam 
+- 10952509 -  Amarasinghe Senevirathna 
