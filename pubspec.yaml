@@ -1,0 +1,69 @@
+name: blood4life
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.13.0  # Updated Firebase Core
+  firebase_auth: ^5.5.2  # Updated Firebase Auth
+  cloud_firestore: ^5.6.6  # Added Firestore
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  flutter_native_splash: ^2.4.4
+  lottie: ^3.3.1
+  animate_do: ^4.2.0
+  lucide_icons: ^0.257.0
+  provider: ^6.1.3
+  firebase_storage: ^12.4.5
+  google_sign_in: ^6.3.0
+  flutter_staggered_animations: ^1.0.0
+  url_launcher: ^6.3.1
+  fluttertoast: ^8.2.12
+  intl: ^0.20.2
+  geolocator: ^13.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/blood_donation.png
+    - assets/animations/donation1.json
+    - assets/animations/donation2.json
+    - assets/animations/donation3.json
+    - assets/animations/donation4.json
+    - assets/animations/login.json
+    - assets/images/google.png
+    - assets/animations/signup.json
+    - assets/images/apple.png
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/blood_donation.png
+  android: true
+  ios: true
+  fullscreen: true
+  android_12:
+    color: "#ffffff"
+    image: assets/images/blood_donation.png
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon.png"  # Make sure this file exists
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/app_icon.png"
+  remove_alpha_ios: true
+  android_adaptive_icon_background: "#FFFFFF"
+  android_adaptive_icon_foreground: "assets/images/app_icon.png"

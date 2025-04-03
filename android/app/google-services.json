@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350463481521",
+    "project_id": "blood4life-dccad",
+    "storage_bucket": "blood4life-dccad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350463481521:android:b488f87b29b8ff1595f490",
+        "android_client_info": {
+          "package_name": "com.example.blood4life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiCC7J36aIIANzytDnMi68E02MbmjZRW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
